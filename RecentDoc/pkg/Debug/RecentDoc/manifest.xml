@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="fdee747b-131f-4f8a-a8bb-c34fba77d1ee" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="RecentDoc.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="RecentDoc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=07dcaf479b11bca5" Namespace="RecentDoc.RecentDoc" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="RecentDoc_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

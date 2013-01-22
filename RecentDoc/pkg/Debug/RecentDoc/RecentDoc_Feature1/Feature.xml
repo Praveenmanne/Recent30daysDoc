@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="622f89ab-1f52-4d4f-980c-8300d6684ef1" Scope="Site" Title="RecentDoc Feature1">
+  <ElementManifests>
+    <ElementManifest Location="RecentDoc\Elements.xml" />
+    <ElementFile Location="RecentDoc\RecentDoc.webpart" />
+  </ElementManifests>
+</Feature>

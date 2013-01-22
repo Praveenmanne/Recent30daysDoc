@@ -1,0 +1,17 @@
+C:\Users\Administrator\Documents\Santhosh_Development\RecentDoc\RecentDoc\bin\Debug\RecentDoc.dll
+C:\Users\Administrator\Documents\Santhosh_Development\RecentDoc\RecentDoc\bin\Debug\RecentDoc.pdb
+C:\Users\Administrator\Documents\Santhosh_Development\RecentDoc\RecentDoc\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\Administrator\Documents\Santhosh_Development\RecentDoc\RecentDoc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Santhosh_Development\RecentDoc\RecentDoc\obj\Debug\RecentDoc.dll
+C:\Users\Administrator\Documents\Santhosh_Development\RecentDoc\RecentDoc\obj\Debug\RecentDoc.pdb
+C:\Users\Administrator\Desktop\RecentDoc\RecentDoc\bin\Debug\RecentDoc.dll
+C:\Users\Administrator\Desktop\RecentDoc\RecentDoc\bin\Debug\RecentDoc.pdb
+C:\Users\Administrator\Desktop\RecentDoc\RecentDoc\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\Administrator\Desktop\RecentDoc\RecentDoc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\RecentDoc\RecentDoc\obj\Debug\RecentDoc.dll
+C:\Users\Administrator\Desktop\RecentDoc\RecentDoc\obj\Debug\RecentDoc.pdb
+\\sakthi\Public\@dmin\BACKUP's\C drive\Back up\Ausenco\RecentDoc\RecentDoc\bin\Debug\RecentDoc.dll
+\\sakthi\Public\@dmin\BACKUP's\C drive\Back up\Ausenco\RecentDoc\RecentDoc\bin\Debug\RecentDoc.pdb
+\\sakthi\Public\@dmin\BACKUP's\C drive\Back up\Ausenco\RecentDoc\RecentDoc\obj\Debug\ResolveAssemblyReference.cache
+\\sakthi\Public\@dmin\BACKUP's\C drive\Back up\Ausenco\RecentDoc\RecentDoc\obj\Debug\RecentDoc.dll
+\\sakthi\Public\@dmin\BACKUP's\C drive\Back up\Ausenco\RecentDoc\RecentDoc\obj\Debug\RecentDoc.pdb
